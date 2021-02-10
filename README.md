@@ -8,4 +8,5 @@
 
 ## Déploiement
 
-* Lien vers le site déployé sur Netlify : 
+* Lien vers le site déployé sur Netlify : https://jovial-hugle-93e927.netlify.app/
+
